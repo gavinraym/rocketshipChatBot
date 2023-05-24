@@ -1,4 +1,4 @@
-prompts
+Yprompts
 What is a guide
 What is 2X Learning
 What is a Check Chart
